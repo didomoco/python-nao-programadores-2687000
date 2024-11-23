@@ -28,4 +28,4 @@ print (resumo.capitalize())
 # Imprima na tela uma string utilizando uma variável, usando o recurso string format
 
 numero = 5
-print (f"o numero escolhido é o {numero}")
+print ("o numero escolhido é o {numero}")f

@@ -9,6 +9,7 @@ print(type(altura))
 
 # Realize uma operação entre dados do tipo string e inteiro
 print(f"O valor é {55 + 99 - 9}") 
+print(f"Olha ai " *2) 
 
 # Realize uma operação entre dados do tipo inteiro e float
 print(f"o calculo é {idade_numerica * altura}")
